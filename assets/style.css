@@ -1,0 +1,15 @@
+.test{
+    background-color: aquamarine;
+    border-radius: 15px;
+    height: 50px;
+    width: 33%;
+    padding: 10px;
+    border: 10px solid orange;
+    margin: 20px auto;
+}
+body{
+    background-color: beige;
+}
+container{
+    padding: 10px;
+}
